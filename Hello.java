@@ -5,7 +5,6 @@ class Hello
 		for (int i=1;i<=10;i++)
 		{
 			System.out.println("Hello World All"+i);
-			System.out.println("Yes Hello to"+i+1);	
 		}	
 	}
 
